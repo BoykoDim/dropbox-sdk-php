@@ -1,3 +1,7 @@
+**Do not use this SDK.  It relies on Dropbox API v1, which is obsolete.**
+
+Alternatives: <https://www.dropbox.com/developers/documentation/communitysdks>
+
 # Dropbox SDK for PHP 5.3+
 
 A PHP library to access [Dropbox's HTTP-based API](http://dropbox.com/developers/core/docs).
